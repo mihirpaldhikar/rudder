@@ -20,6 +20,8 @@
  * SOFTWARE.
  */
 
-fn main() {
+#[tokio::main]
+async fn main() -> Result<(), String> {
     println!("Hello, from Rudder!");
+    Ok(())
 }
