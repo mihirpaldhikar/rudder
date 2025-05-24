@@ -1,0 +1,6 @@
+### IDEs Config ###
+.idea
+.vscode
+
+### Build Artifacts ###
+/target
